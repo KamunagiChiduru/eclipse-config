@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="4710" name="Hydrangea" modified="2012-04-17 06:13:51" author="kamichidu">
+    <searchResultIndication         color="#803333" />                                                                     <!-- 検索結果 --> 
+    <filteredSearchResultIndication color="#803333" />                                                                     <!--  --> 
+    <occurrenceIndication           color="#333333" />                                                                     <!-- カーソル乗せたときに浮き出るやつ --> 
+    <writeOccurrenceIndication      color="#803333" />                                                                     <!-- カーソル乗せたときに浮き出るやつ --> 
+    <findScope                      color="#BCADAD" />                                                                     <!--  --> 
+    <deletionIndication             color="#FF0000" bold="false" italic="false" underline="false" strikethrough="true"  /> <!-- 非推奨のもの --> 
+    <sourceHoverBackground          color="#EEEEEE" />                                                                     <!--  --> 
+    <singleLineComment              color="#008000" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- // --> 
+    <multiLineComment               color="#008000" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- /* */ --> 
+    <commentTaskTag                 color="#008000" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- TODO FIXME XXX --> 
+    <javadoc                        color="#008000" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- /** */ --> 
+    <javadocLink                    color="#508050" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- {@link } --> 
+    <javadocTag                     color="#508050" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- <br>, etc --> 
+    <javadocKeyword                 color="#508050" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- @param, etc --> 
+    <class                          color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- クラス使用箇所 --> 
+    <interface                      color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- インタフェイス使用箇所 --> 
+    <method                         color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- メソッド使用箇所 --> 
+    <methodDeclaration              color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- メソッド定義 --> 
+    <bracket                        color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- () {} [] --> 
+    <number                         color="#FF0000" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- \d --> 
+    <string                         color="#8050FF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- "xxx" --> 
+    <operator                       color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- + - * / --> 
+    <keyword                        color="#4040FF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- switch if, etc --> 
+    <annotation                     color="#555555" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- @Annotation --> 
+    <staticMethod                   color="#C0C0FF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 静的メソッド使用箇所 --> 
+    <localVariable                  color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- ローカル変数 --> 
+    <localVariableDeclaration       color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- ローカル変数宣言 --> 
+    <field                          color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- フィールド変数 --> 
+    <staticField                    color="#C0C0FF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 静的フィールド変数 --> 
+    <staticFinalField               color="#C0C0FF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 定数フィールド変数 --> 
+    <deprecatedMember               color="#FF0000" bold="false" italic="false" underline="false" strikethrough="true"  /> <!-- 非推奨メンバ --> 
+    <enum                           color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 列挙型 --> 
+    <inheritedMethod                color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 継承されたメソッド --> 
+    <abstractMethod                 color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 抽象メソッド --> 
+    <parameterVariable              color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 引数 --> 
+    <typeArgument                   color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 型引数 --> 
+    <typeParameter                  color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 型パラメータ --> 
+    <constant                       color="#FFFFFF" bold="false" italic="false" underline="false" strikethrough="false" /> <!-- 定数 --> 
+    <background                     color="#000000" />                                                                     <!-- 背景 --> 
+    <currentLine                    color="#222222" />                                                                     <!-- 現在行 --> 
+    <foreground                     color="#FFFFFF" />                                                                     <!-- 前景 --> 
+    <lineNumber                     color="#999999" />                                                                     <!-- 行番号 --> 
+    <selectionBackground            color="#550000" />                                                                     <!-- 選択領域の背景 --> 
+    <selectionForeground            color="#FFFFFF" />                                                                     <!-- 選択領域の前景 --> 
+</colorTheme>
+
